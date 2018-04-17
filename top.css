@@ -1,0 +1,49 @@
+body {
+  background-image: url("background.png");
+  width: 800px;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+nav {
+  width: 250px;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  margin: 0;
+  margin-left: 304px;
+  padding-left: 10px;
+}
+
+p#status {
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+li {
+  list-style: none;
+  padding-left: 0;
+}
+
+li.movie {
+  margin-top: 40px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+div#news {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+div#movie_list {
+  padding-left: 40px;
+}

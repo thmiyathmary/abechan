@@ -1,0 +1,24 @@
+body {
+  background-image: url("tv.png");
+}
+
+.center {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  padding: 20px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  padding-left: 0;
+}

@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+nav {
+  background-color: #e6e6fa;
+  width: 15%;
+  height: 100vh;
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+iframe {
+  float: right;
+  width: calc(100% - 15% - 2*1px);
+  margin: 0;
+  padding: 0;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  height: 100vh;
+}
+
+li {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 30px;
+}
+
+.pink {
+  color: pink;
+}
+
+.green {
+  color: green;
+}
+
+.skyblue {
+  color: skyblue;
+}
+
+.cornflowerblue {
+  color: cornflowerblue;
+}
+
+.blue {
+  color: blue;
+}
+
+.navy {
+  color: navy;
+}
+
+.purple {
+  color: purple;
+}
